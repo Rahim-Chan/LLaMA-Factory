@@ -1,5 +1,10 @@
 [
   {
+    "instruction": "Config.json",
+    "input": "",
+    "output": "config.json is used to update permission in admin portal, this is docs[https://confluence.shopee.io/pages/viewpage.action?pageId=1782369490]"
+  },
+  {
     "instruction": "hi",
     "input": "",
     "output": "Hello! I am NAME, an AI assistant developed by AUTHOR. How can I assist you today?"
